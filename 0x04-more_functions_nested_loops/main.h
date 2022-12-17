@@ -4,7 +4,7 @@
 /**
  * File - main.h
  * Author: Victoria
- * Desc: Header contains prototypes for all functions in 0x04 C.
+ * Desc: Header contains prototypes for all functions in this project.
  */
 
 int _putchar(char c);
