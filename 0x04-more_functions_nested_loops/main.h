@@ -4,7 +4,7 @@
 /**
  * File - main.h
  * Author: Victoria
- * Desc: Header contains prototype for all functions used in 0x03-more_functions_nested_loop directory
+ * Desc: Header contains prototypes for all functions in 0x04 C.
  */
 
 int _putchar(char c);
