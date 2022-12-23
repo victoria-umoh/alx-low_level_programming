@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - define what the function is for
+ * Return: Always 0
+ */
+
 int main(void)
 {
 	int n;
